@@ -1,0 +1,7 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE,"Ph.D., Ecology","University of California, Davis","Davis, CA",2017,2021,Add description here,Bullet point two,Bullet point three
+education,TRUE,"M.S., Ecology","University of California, Davis","Davis, CA",2014,2017,Add description here,N/A,N/A
+education,TRUE,"B.S., Evolution, Ecology and Organismal Biology","University of California, Davis","Davis, CA",2003,2005,N/A,N/A,N/A
+research_positions,TRUE,Graduate Student Researcher,"University of California, Davis","Davis, CA",N/A,N/A,N/A,N/A,N/A
+teaching_positions,TRUE,Graduate Teaching Assistant,"University of California, Davis","Davis, CA",2014,2015,N/A,N/A,N/A
+agency_positions,TRUE,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
